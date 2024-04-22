@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Circle祝你生日快乐!&center=true&size=27"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Circle祝你生日快乐;Second+line+of+text)](https://git.io/typing-svg)
 
 ![](https://github.com/Circle930/Circle930/blob/output/github-contribution-grid-snake.svg)
 
