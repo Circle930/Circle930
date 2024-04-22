@@ -6,3 +6,14 @@
 - 🐕 姓名: Circle
 - 👦 性别: 男
 - 🌏 现居: 重庆
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Circle930" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
+</div>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
