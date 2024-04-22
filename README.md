@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Circle祝你生日快乐！！;CIRCLE WISH YOU HAPPY BIRTHDAY！！ )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Circle祝你生日快乐;CIRCLE+WISH+YOU+HAPPY+BIRTHDAY)](https://git.io/typing-svg)
 
 ![](https://github.com/Circle930/Circle930/blob/output/github-contribution-grid-snake.svg)
 
