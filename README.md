@@ -5,13 +5,16 @@
   </div>
 
 
-<p align="center">
-<img align="center" src="https://gitee.com/paddlepaddle/Paddle/raw/develop/doc/imgs/logo.png", width=1600>
-<p>
+
+
 
 
 <!-- snake effect 贪吃蛇效果 -->
 ![](https://github.com/Circle930/Circle930/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 ## Hey 👋, I'm Circle!  
