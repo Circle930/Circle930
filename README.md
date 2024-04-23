@@ -81,7 +81,6 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Circle930&&style=flat-square)  
-  
 
 <br/>  
 
