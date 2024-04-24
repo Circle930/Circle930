@@ -83,5 +83,8 @@
 
 
 
+![Profile views counter](https://komarev.com/ghpvc/?username=circle930&&style=for-the-badge) 
+![GitHub stars](https://img.shields.io/github/stars/circle930?style=for-the-badge&color=red)
+![GitHub followers](https://img.shields.io/github/followers/circle930?style=for-the-badge&color=green)
 ![Visitor Count](https://profile-counter.glitch.me/Circle930/count.svg)
-![Profile views counter](https://komarev.com/ghpvc/?username=Circle930&&style=flat-square)  
+
