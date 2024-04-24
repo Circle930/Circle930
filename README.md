@@ -54,27 +54,19 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 <br/>  
 
 
+
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Circle930&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Circle930&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
-
 <br/>  
 
-  
 
-<br/>  
 
+![Visitor Count](https://profile-counter.glitch.me/Circle930/count.svg)
 ![Profile views counter](https://komarev.com/ghpvc/?username=Circle930&&style=flat-square)  
-
-<br/>  
-
-
-<br />
-
