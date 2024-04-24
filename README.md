@@ -1,5 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Long Cang&color=red&pause=1000&width=435&lines=Wish+you+Dreams+come+true!;Circle祝你梦想成真!&center=false&size=35" />
+<img src="https://readme-typing-svg.demolab.com?font=Permanent Marker&color=red&pause=1000&width=600&lines=Wish+you+Dreams+come+true!!!;and+Glad+to+Meet+You!!!&center=false&size=30" />
 
 
 
@@ -19,14 +19,14 @@
 
 
 
-### Happy to see you !!!  
-嗨，你好，我是Circle。热爱编程、摄影、游戏、视频剪辑。
+### Glad to Meet You !!!  
+*嗨！你好，我是Circle。热爱编程、摄影、游戏、视频剪辑。
 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
-我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。目前正在从事深度学习和计算机视觉语义分割工作。👨‍💻🐒  
+我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。目前正在从事深度学习和计算机视觉语义分割工作*👨‍💻🐒  
 
 <br/> 
 
-Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm passionate about computer science and the IT industry, aspiring to become an excellent developer. We are making the world a better place by building perfect systems through the reuse and extension of code. Currently, I am engaged in deep learning and computer vision semantic segmentation work. 👨‍💻🐒
+*Hi!I'm Circle. I love programming, photography, gaming, and video editing. I'm passionate about computer science and the IT industry, aspiring to become an excellent developer. We are making the world a better place by building perfect systems through the reuse and extension of code. Currently, I am engaged in deep learning and computer vision semantic segmentation work.* 👨‍💻🐒
 
 
 
