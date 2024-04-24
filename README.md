@@ -3,19 +3,27 @@
 
 
 
+
 ## Hey 👋, I'm Circle!  
   
 
 <a href="https://github.com/Circle930" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://space.bilibili.com/15221091?spm_id_from=333.1007.0.0" target="_blank">
+<img src=https://img.shields.io/badge/bilibili-%23479FD1.svg?&style=for-the-badge&logo=bilibili&logoColor=white alt=bilibili style="margin-bottom: 5px;" />
+</a>  
+
 <a href="https://stackoverflow.com/users/Circle" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.youtube.com/user/Circle" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
+
 
 
 
@@ -27,6 +35,7 @@
 <br/> 
 
 *Hi!I'm Circle. I love programming, photography, gaming, and video editing. I'm passionate about computer science and the IT industry, aspiring to become an excellent developer. We are making the world a better place by building perfect systems through the reuse and extension of code. Currently, I am engaged in deep learning and computer vision semantic segmentation work.* 👨‍💻🐒
+
 
 
 
