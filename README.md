@@ -73,5 +73,3 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 
 ![Visitor Count](https://profile-counter.glitch.me/Circle930/count.svg)
 ![Profile views counter](https://komarev.com/ghpvc/?username=Circle930&&style=flat-square)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=circle930&repo=github-readme-stats)](https://github.com/circle930/github-readme-stats)
