@@ -62,10 +62,10 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Circle930&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=circle930&theme=swift&show_icons=true" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Circle930&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=circle930&hide_border=true&theme=swift&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
 <br/>  
 
@@ -73,3 +73,5 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 
 ![Visitor Count](https://profile-counter.glitch.me/Circle930/count.svg)
 ![Profile views counter](https://komarev.com/ghpvc/?username=Circle930&&style=flat-square)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=circle930&repo=github-readme-stats)](https://github.com/circle930/github-readme-stats)
