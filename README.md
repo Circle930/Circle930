@@ -39,7 +39,7 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -65,7 +65,8 @@ Hi, I'm Circle. I love programming, photography, gaming, and video editing. I'm 
 <img src="https://github-readme-stats.vercel.app/api?username=circle930&theme=swift&show_icons=true" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=circle930&hide_border=true&theme=swift&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=circle930&hide_border=true&theme=swift&layout=compact" style="width: 100%" />
+
 </td></tr></table>  
 <br/>  
 
