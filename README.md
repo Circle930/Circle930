@@ -69,12 +69,14 @@
 
 
 
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=circle930&theme=swift&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=circle930&show_icons=true" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=circle930&hide_border=true&theme=swift&layout=compact" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=circle930&hide_border=true&layout=compact" style="width: 100%" />
 
 </td></tr></table>  
 <br/>  
