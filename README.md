@@ -5,7 +5,8 @@
 
 
 ## Hey 👋, I'm Circle!  
-  
+
+
 
 <a href="https://github.com/Circle930" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,7 +33,7 @@
 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。目前正在从事深度学习和计算机视觉语义分割工作*👨‍💻🐒  
 
-<br/> 
+---
 
 *Hi!I'm Circle. I love programming, photography, gaming, and video editing. I'm passionate about computer science and the IT industry, aspiring to become an excellent developer. We are making the world a better place by building perfect systems through the reuse and extension of code. Currently, I am engaged in deep learning and computer vision semantic segmentation work.* 👨‍💻🐒
 
