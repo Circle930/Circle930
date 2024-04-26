@@ -1,5 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Permanent Marker&color=red&pause=1000&width=600&lines=Wish+you+Dreams+come+true!!!;and+Glad+to+Meet+You!!!&center=false&size=30" />
+<img src="https://readme-typing-svg.demolab.com?font=Permanent Marker&color=red&pause=1000&width=600&lines=For+a+Better+world!!!;Infinite+Progress!!!&center=false&size=30" />
 
 
 
